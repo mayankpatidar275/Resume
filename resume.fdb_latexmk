@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1760964639.20251 "/Users/mayank/Developer/Resume/resume.tex" "resume.pdf" "resume" 1760964639.58884 0
-  "/Users/mayank/Developer/Resume/resume.tex" 1760964639.05404 9461 a55b7f5306433a6b55e9b751d6c6c251 ""
+["pdflatex"] 1760967131.90962 "/Users/mayank/Developer/Resume/resume.tex" "resume.pdf" "resume" 1760967132.26575 0
+  "/Users/mayank/Developer/Resume/resume.tex" 1760967131.75136 9483 8b721b777977075bc3be5b4afacdd844 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc" 1463430686 2437 443c81fb50993bacedc5f9a206c322b0 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -98,9 +98,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1760954417 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1760954359 3345739 ea77ebbe4afad7c4bff51e4fafd6b6ee ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "resume.aux" 1760964639.55396 596 5c8070ad6de2f2b4c4eb9b146ad4847d "pdflatex"
-  "resume.out" 1760964639.55433 254 ec35c75adb7fa22be14d3b8a4b8b76b8 "pdflatex"
-  "resume.tex" 1760964639.05404 9461 a55b7f5306433a6b55e9b751d6c6c251 ""
+  "resume.aux" 1760967132.23426 596 5c8070ad6de2f2b4c4eb9b146ad4847d "pdflatex"
+  "resume.out" 1760967132.23478 254 ec35c75adb7fa22be14d3b8a4b8b76b8 "pdflatex"
+  "resume.tex" 1760967131.75136 9483 8b721b777977075bc3be5b4afacdd844 ""
   (generated)
   "resume.aux"
   "resume.log"
