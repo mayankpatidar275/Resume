@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.10.20)  20 OCT 2025 19:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.10.20)  6 MAR 2026 20:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -361,32 +361,31 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomethree on in
  (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 )
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
+(Font)              using `OT1/cmr/bx/n' instead on input line 140.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 129.
+(Font)              <10.95> on input line 145.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 129.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 129.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/base/ulasy.fd
+(Font)              <8> on input line 145.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 145.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 145.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 
-LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 139.
+Package hyperref Warning: Suppressing empty link on input line 145.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 144.
+(Font)              <5> on input line 147.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 144.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 144.
+(Font)              <7> on input line 152.
 
-Package hyperref Warning: Suppressing empty link on input line 144.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 163.
-
-
-Package hyperref Warning: Suppressing empty link on input line 163.
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 199--201
+[]  
+ []
 
 
 
@@ -407,21 +406,21 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: EC35C75ADB7FA22BE14D3B8A4B8B76B8;254.
+(rerunfilecheck)             Checksum: 506D6059235771831911E9B77B3A5A28;337.
  ) 
 Here is how much of TeX's memory you used:
- 12588 strings out of 473190
- 197207 string characters out of 5715799
+ 12590 strings out of 473190
+ 197227 string characters out of 5715799
  639089 words of memory out of 5000000
- 35693 multiletter control sequences out of 15000+600000
+ 35694 multiletter control sequences out of 15000+600000
  565523 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,447b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (1 page, 114988 bytes).
+ 75i,11n,79p,335b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on resume.pdf (1 page, 124059 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 64 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 89 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
